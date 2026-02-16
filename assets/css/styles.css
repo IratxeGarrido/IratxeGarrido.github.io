@@ -736,6 +736,11 @@ body.dark-theme {
   margin-bottom: 1.25rem;
 }
 
+.services__description a {
+  color: var(--first-color);
+  font-weight: 600;
+}
+
 /*=============== PROJECTS ===============*/
 .projects {
   background-color: var(--container-color);
